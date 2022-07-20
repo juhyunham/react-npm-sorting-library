@@ -8,8 +8,6 @@
     <li><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></li>
 </ul>
 
----
-
 <br />
 
 <h2>기능</h2>
@@ -19,8 +17,6 @@
     <li> drag and drop </li>
 </ul>
 
----
-
 <br />
 
 <h2>시작</h2>
@@ -28,8 +24,6 @@
 ```sh
 $ npm run start
 ```
-
----
 
 <br />
 <h2> 설계(구현 그림) draft</h2>
