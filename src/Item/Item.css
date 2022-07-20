@@ -1,0 +1,10 @@
+.item {
+  background-color: #b2a4ff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+}
+
+.item-name {
+  margin: 0;
+}
