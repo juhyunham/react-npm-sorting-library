@@ -2,6 +2,7 @@ import SortableList from "./lib/SortableList";
 import { data } from "./Item/Data";
 import Item from "./Item/Item";
 import "./App.css";
+import React from "react";
 
 function App() {
   const handleDropItem = (newList: { name: string }[]) => {
