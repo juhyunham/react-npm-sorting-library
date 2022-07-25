@@ -29,7 +29,7 @@ $ npm run start
 
 <h2>배포</h2>
 ```sh
-$npm run publish
+$ npm run publish
 ```
 
 <br />
