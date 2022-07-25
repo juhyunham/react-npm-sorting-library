@@ -1,0 +1,28 @@
+ul,
+li {
+  list-style: none;
+}
+
+.sortable-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sortable-list .sortable-item {
+  padding: 10px 0;
+  border-top: 2px solid transparent;
+}
+
+.sortable-list .sortable-item * {
+  pointer-events: none;
+}
+
+.sortable-list .sortable-item.dragstart {
+  opacity: 0.5;
+}
+
+.sortable-list .sortable-item.dragover {
+  border-top-color: black;
+}
