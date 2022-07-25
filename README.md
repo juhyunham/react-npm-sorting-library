@@ -1,4 +1,6 @@
-﻿<h1 align="center">Sortable 컴포넌트 개발 / npm 퍼블릭 배포</h1>
+﻿<h1 align="center">Sortable component / npm public publish</h1>
+
+URL : https://www.npmjs.com/package/@juham/ts-sortable-library
 
 <h2>기술</h2>
 <ul>
@@ -23,6 +25,11 @@
 
 ```sh
 $ npm run start
+```
+
+<h2>배포</h2>
+```sh
+$npm run publish
 ```
 
 <br />
