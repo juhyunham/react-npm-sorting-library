@@ -8,3 +8,27 @@
 .item-name {
   margin: 0;
 }
+
+.sortable-item:nth-child(1) .item {
+  background-color: #abc9ff;
+}
+
+.sortable-item:nth-child(2) .item {
+  background-color: #ffdede;
+}
+
+.sortable-item:nth-child(3) .item {
+  background-color: #ff8b8b;
+}
+
+.sortable-item:nth-child(4) .item {
+  background-color: #eae509;
+}
+
+.sortable-item:nth-child(5) .item {
+  background-color: #7dce13;
+}
+
+.sortable-item:nth-child(6) .item {
+  background-color: #5bb318;
+}
