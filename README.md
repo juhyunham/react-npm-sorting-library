@@ -14,7 +14,6 @@ URL : https://www.npmjs.com/package/@juham/ts-sortable-library
 
 <h2>기능</h2>
 <ul>
-    <li> npm public publish </li>
     <li> sortable </li>
     <li> drag and drop </li>
 </ul>
