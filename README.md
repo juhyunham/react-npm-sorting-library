@@ -32,9 +32,3 @@ $ npm run start
 ```sh
 $ npm run publish
 ```
-
-<br />
-<h2> 설계(구현 그림) draft</h2>
-<p align="center">
-    <img src="final.jpg" alt="architecture" width="150" />
-</p>
